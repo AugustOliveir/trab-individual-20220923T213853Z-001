@@ -1,0 +1,68 @@
+.body{
+    background-color: darkseagreen;
+    
+}
+.h1_inicial{
+    border: solid 0px black;
+    color:blanchedalmond;
+    font-size: 45px;
+    margin-top: 0px;
+    display: flex;
+    justify-content: center;
+    padding-top: 0px;
+}
+
+.h3{
+    color: darkslategrey;
+    
+}
+
+.a{
+    border: solid 0px red;
+    font-size: 30px;
+    background-color:rgb(98, 194, 189);
+
+    margin-top: 80px;
+    margin-bottom: 30px;
+    padding-right: 190px;
+    padding-left: 290px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+.a:hover{
+    background-color: black;
+}
+
+.azin{
+    text-decoration:none;
+    color:blanchedalmond;
+    font-size: 35px;
+}
+
+.div_1{
+    border: solid 0px red;
+    margin-bottom: 150px;
+    padding: 10px;
+    text-align: center;
+   font-family: 'Open Sans', sans-serif;
+   font-size: 25px;
+
+}
+
+.imgperfil{
+    width: 300px;
+    height: 300px;}
+
+.mudar_img{
+    border: solid 0px red;
+    display: flex;
+    justify-content: center;
+    padding: 0px;
+    margin: 0px;
+}
+footer{
+    text-align: center;
+}
