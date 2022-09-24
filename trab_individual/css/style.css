@@ -1,10 +1,11 @@
-.body{
+.body {
     background-color: darkseagreen;
-    
+
 }
-.h1_inicial{
+
+.h1_inicial {
     border: solid 0px black;
-    color:blanchedalmond;
+    color: blanchedalmond;
     font-size: 45px;
     margin-top: 0px;
     display: flex;
@@ -12,15 +13,15 @@
     padding-top: 0px;
 }
 
-.h3{
+.h3 {
     color: darkslategrey;
-    
+
 }
 
-.a{
+.a {
     border: solid 0px red;
     font-size: 30px;
-    background-color:rgb(98, 194, 189);
+    background-color: rgb(98, 194, 189);
 
     margin-top: 80px;
     margin-bottom: 30px;
@@ -29,40 +30,60 @@
     display: flex;
     align-items: center;
     justify-content: space-around;
-    
+
 }
 
-.a:hover{
+.a:hover {
     background-color: black;
 }
 
-.azin{
-    text-decoration:none;
-    color:blanchedalmond;
+
+.azin {
+    text-decoration: none;
+    color: blanchedalmond;
     font-size: 35px;
 }
 
-.div_1{
+.div_1 {
+    color: blanchedalmond;
     border: solid 0px red;
     margin-bottom: 150px;
     padding: 10px;
     text-align: center;
-   font-family: 'Open Sans', sans-serif;
-   font-size: 25px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
 
 }
 
-.imgperfil{
+.imgperfil {
     width: 300px;
-    height: 300px;}
+    height: 300px;
+}
 
-.mudar_img{
+.mudar_img {
     border: solid 0px red;
     display: flex;
     justify-content: center;
     padding: 0px;
     margin: 0px;
 }
-footer{
+
+footer {
     text-align: center;
+}
+.hobs{
+    font-size: 50px;
+    text-align: center;
+    color: blanchedalmond;
+}
+.pagina2_2{color:darkslategrey;
+    text-align: center;
+    font-size: 25px;
+    
+}
+
+.fim{
+    font-size: 20px;
+    color:darkslategray
+
 }
